@@ -1,0 +1,42 @@
+body {
+    padding-top: 2em;
+}
+
+.colimn-titles {
+    background-color: rgb(172, 172, 235);
+    cursor: pointer;
+}
+
+.table {
+    margin-bottom: 5em;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 3em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.form-top {
+    margin-bottom: 0.5em;
+}
+
+.validation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+    margin-bottom: 1em;
+}
+
+.btn-filter {
+    margin-bottom: 2em;
+}
